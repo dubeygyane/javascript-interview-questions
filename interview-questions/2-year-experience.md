@@ -113,6 +113,3 @@ Modules are pieces of reusable code that can be imported or exported between fil
 Type coercion is the automatic or implicit conversion of values from one data type to another, such as converting a string to a number during a comparison with `==`.
 
 ---
-
-## License
-This content is open source and available under the [MIT License](LICENSE).

@@ -110,6 +110,3 @@ The `async`/`await` syntax simplifies asynchronous programming by allowing devel
 A polyfill is code that provides functionality that is not natively supported in certain browsers, allowing developers to use modern features without worrying about compatibility.
 
 ---
-
-## License
-This content is open source and available under the [MIT License](LICENSE).
